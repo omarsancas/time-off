@@ -1,0 +1,31 @@
+{
+  "payees": [
+    {
+      "id": 1,
+      "fullName": "Jane Eyre",
+      "RequestType": "Vacation",
+      "RequestDate": "2020/07/01",
+      "Description": "Valle de bravo",
+      "Request": "72 hrs",
+      "Balance": "100 hrs"
+    },
+    {
+      "id": 2,
+      "fullName": "Harry Potter",
+      "RequestType": "Vacation",
+      "RequestDate": "2020/07/01",
+      "Description": "Hogwarts",
+      "Request": "200 hrs",
+      "Balance": "40 hrs"
+    },
+    {
+      "id": 3,
+      "fullName": "Frodo Baggins",
+      "RequestType": "Emergency",
+      "RequestDate": "2020/07/01",
+      "Description": "The shire",
+      "Request": "24 hrs",
+      "Balance": "-9 hrs"
+    }
+  ]  
+}

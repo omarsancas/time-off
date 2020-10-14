@@ -7,7 +7,9 @@
       "requestDate": "2020/07/01",
       "description": "Valle de bravo",
       "request": "72 hrs",
-      "balance": "100 hrs"
+      "balance": "100 hrs",
+      "startDate": "2020/11/12",
+      "endDate": "2020/12/08"
     },
     {
       "id": 2,

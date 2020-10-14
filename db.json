@@ -33,5 +33,19 @@
       "startDate": "2020/11/12",
       "endDate": "2020/12/08"
     }
-  ]  
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Jane Eyre"     
+    },
+    {
+      "id": 2,
+      "fullName": "Harry Potter"      
+    },
+    {
+      "id": 3,
+      "fullName": "Frodo Baggins"      
+    }
+  ]    
 }

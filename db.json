@@ -6,7 +6,7 @@
       "requestType": "Vacation",
       "requestDate": "2020/07/01",
       "description": "Valle de bravo",
-      "request": "72 hrs",
+      "requestHours": "72 hrs",
       "balance": "100 hrs",
       "startDate": "2020/11/12",
       "endDate": "2020/12/08"
@@ -17,7 +17,7 @@
       "requestType": "Vacation",
       "requestDate": "2020/07/01",
       "description": "Hogwarts",
-      "request": "200 hrs",
+      "requestHours": "200 hrs",
       "balance": "40 hrs",
       "startDate": "2020/11/12",
       "endDate": "2020/12/08"
@@ -28,7 +28,7 @@
       "requestType": "Emergency",
       "requestDate": "2020/07/01",
       "description": "The shire",
-      "request": "24 hrs",
+      "requestHours": "24 hrs",
       "balance": "-9 hrs",
       "startDate": "2020/11/12",
       "endDate": "2020/12/08"

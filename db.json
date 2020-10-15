@@ -2,7 +2,7 @@
   "payees": [
     {
       "id": 1,
-      "fullName": "Jane Eyre",
+      "fullName": "Tito Lynch",
       "requestType": "Vacation",
       "requestDate": "2020/07/01",
       "description": "Valle de bravo",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "fullName": "Harry Potter",
+      "fullName": "Terence Lesch",
       "requestType": "Vacation",
       "requestDate": "2020/07/01",
       "description": "Hogwarts",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "fullName": "Frodo Baggins",
+      "fullName": "Germain Homenick",
       "requestType": "Emergency",
       "requestDate": "2020/07/01",
       "description": "The shire",
@@ -37,7 +37,7 @@
   "employees": [
     {
       "id": 1,
-      "fullName": "Jane Eyre"     
+      "fullName": "Tito Lynch"     
     },
     {
       "id": 2,

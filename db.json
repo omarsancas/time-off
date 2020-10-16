@@ -21,18 +21,7 @@
       "balance": "40 hrs",
       "startDate": "2020/11/12",
       "endDate": "2020/12/08"
-    },
-    {
-      "id": 3,
-      "fullName": "Germain Homenick",
-      "requestType": "Vacation",
-      "requestDate": "2020/09/14",
-      "description": "family trip",
-      "requestHours": "24 hrs",
-      "balance": "-9 hrs",
-      "startDate": "2020/11/12",
-      "endDate": "2020/12/08"
-    }
+    }    
   ],
   "employees": [
     {
